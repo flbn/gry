@@ -1,0 +1,50 @@
+.cl-black {
+  color: #000000;
+}
+.cl-near-black {
+  color: #171717;
+}
+.cl-grey-800 {
+  color: #2e2e2e;
+}
+.cl-grey-700 {
+  color: #454545;
+}
+.cl-grey-600 {
+  color: #5c5c5c;
+}
+.cl-grey-500 {
+  color: #737373;
+}
+.cl-grey-400 {
+  color: #8c8c8c;
+}
+.cl-grey-300 {
+  color: #a3a3a3;
+}
+.cl-grey-200 {
+  color: #bababa;
+}
+.cl-grey-100 {
+  color: #d1d1d1;
+}
+.cl-near-white {
+  color: #e8e8e8;
+}
+.cl-white {
+  color: #ffffff;
+}
+
+progress.white::-webkit-progress-value,
+meter.white::-webkit-meter-optimum-value,
+progress.bg-white::-webkit-progress-bar,
+meter.bg-white::-webkit-meter-bar {
+  background-color: #fefefe;
+}
+
+progress.black::-webkit-progress-value,
+meter.black::-webkit-meter-optimum-value,
+progress.bg-black::-webkit-progress-bar,
+meter.bg-black::-webkit-meter-bar {
+  background-color: #202020;
+}

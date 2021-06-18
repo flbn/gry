@@ -1,0 +1,581 @@
+.wa {
+  width: auto;
+}
+.wf {
+  width: 100%;
+}
+
+.sw1 {
+  width: 0.25em;
+}
+.sw2 {
+  width: 0.5em;
+}
+.sw3 {
+  width: 1em;
+}
+.sw4 {
+  width: 2em;
+}
+.sw5 {
+  width: 4em;
+}
+.sw6 {
+  width: 8em;
+}
+.sw7 {
+  width: 16em;
+}
+
+.w1 {
+  width: 10%;
+}
+.w2 {
+  width: 20%;
+}
+.w3 {
+  width: 30%;
+}
+.w4 {
+  width: 40%;
+}
+.w5 {
+  width: 50%;
+}
+.w6 {
+  width: 60%;
+}
+.w7 {
+  width: 70%;
+}
+.w8 {
+  width: 80%;
+}
+.w9 {
+  width: 90%;
+}
+
+.vw1 {
+  width: 10vw;
+}
+.vw2 {
+  width: 20vw;
+}
+.vw3 {
+  width: 30vw;
+}
+.vw4 {
+  width: 40vw;
+}
+.vw5 {
+  width: 50vw;
+}
+.vw6 {
+  width: 60vw;
+}
+.vw7 {
+  width: 70vw;
+}
+.vw8 {
+  width: 80vw;
+}
+.vw9 {
+  width: 90vw;
+}
+.vw {
+  width: 100vw;
+}
+
+.min-w1 {
+  min-width: 10%;
+}
+.min-w2 {
+  min-width: 20%;
+}
+.min-w3 {
+  min-width: 30%;
+}
+.min-w4 {
+  min-width: 40%;
+}
+.min-w5 {
+  min-width: 50%;
+}
+.min-w6 {
+  min-width: 60%;
+}
+.min-w7 {
+  min-width: 70%;
+}
+.min-w8 {
+  min-width: 80%;
+}
+.min-w9 {
+  min-width: 90%;
+}
+
+.max-w1 {
+  max-width: 10%;
+}
+.max-w2 {
+  max-width: 20%;
+}
+.max-w3 {
+  max-width: 30%;
+}
+.max-w4 {
+  max-width: 40%;
+}
+.max-w5 {
+  max-width: 50%;
+}
+.max-w6 {
+  max-width: 60%;
+}
+.max-w7 {
+  max-width: 70%;
+}
+.max-w8 {
+  max-width: 80%;
+}
+.max-w9 {
+  max-width: 90%;
+}
+
+@media screen and (max-width: 30em) {
+  .wa-s {
+    width: auto;
+  }
+  .wf-s {
+    width: 100%;
+  }
+
+  .sw1-s {
+    width: 0.25em;
+  }
+  .sw2-s {
+    width: 0.5em;
+  }
+  .sw3-s {
+    width: 1em;
+  }
+  .sw4-s {
+    width: 2em;
+  }
+  .sw5-s {
+    width: 4em;
+  }
+  .sw6-s {
+    width: 8em;
+  }
+  .sw7-s {
+    width: 16em;
+  }
+
+  .w1-s {
+    width: 10%;
+  }
+  .w2-s {
+    width: 20%;
+  }
+  .w3-s {
+    width: 30%;
+  }
+  .w4-s {
+    width: 40%;
+  }
+  .w5-s {
+    width: 50%;
+  }
+  .w6-s {
+    width: 60%;
+  }
+  .w7-s {
+    width: 70%;
+  }
+  .w8-s {
+    width: 80%;
+  }
+  .w9-s {
+    width: 90%;
+  }
+
+  .vw1-s {
+    width: 10vw;
+  }
+  .vw2-s {
+    width: 20vw;
+  }
+  .vw3-s {
+    width: 30vw;
+  }
+  .vw4-s {
+    width: 40vw;
+  }
+  .vw5-s {
+    width: 50vw;
+  }
+  .vw6-s {
+    width: 60vw;
+  }
+  .vw7-s {
+    width: 70vw;
+  }
+  .vw8-s {
+    width: 80vw;
+  }
+  .vw9-s {
+    width: 90vw;
+  }
+  .vw-s {
+    width: 100vw;
+  }
+
+  .min-w1-s {
+    min-width: 10%;
+  }
+  .min-w2-s {
+    min-width: 20%;
+  }
+  .min-w3-s {
+    min-width: 30%;
+  }
+  .min-w4-s {
+    min-width: 40%;
+  }
+  .min-w5-s {
+    min-width: 50%;
+  }
+  .min-w6-s {
+    min-width: 60%;
+  }
+  .min-w7-s {
+    min-width: 70%;
+  }
+  .min-w8-s {
+    min-width: 80%;
+  }
+  .min-w9-s {
+    min-width: 90%;
+  }
+
+  .max-w1-s {
+    max-width: 10%;
+  }
+  .max-w2-s {
+    max-width: 20%;
+  }
+  .max-w3-s {
+    max-width: 30%;
+  }
+  .max-w4-s {
+    max-width: 40%;
+  }
+  .max-w5-s {
+    max-width: 50%;
+  }
+  .max-w6-s {
+    max-width: 60%;
+  }
+  .max-w7-s {
+    max-width: 70%;
+  }
+  .max-w8-s {
+    max-width: 80%;
+  }
+  .max-w9-s {
+    max-width: 90%;
+  }
+}
+
+@media screen and (min-width: 30em) and (max-width: 60em) {
+  .wa-m {
+    width: auto;
+  }
+  .wf-m {
+    width: 100%;
+  }
+
+  .sw1-m {
+    width: 0.25em;
+  }
+  .sw2-m {
+    width: 0.5em;
+  }
+  .sw3-m {
+    width: 1em;
+  }
+  .sw4-m {
+    width: 2em;
+  }
+  .sw5-m {
+    width: 4em;
+  }
+  .sw6-m {
+    width: 8em;
+  }
+  .sw7-m {
+    width: 16em;
+  }
+
+  .w1-m {
+    width: 10%;
+  }
+  .w2-m {
+    width: 20%;
+  }
+  .w3-m {
+    width: 30%;
+  }
+  .w4-m {
+    width: 40%;
+  }
+  .w5-m {
+    width: 50%;
+  }
+  .w6-m {
+    width: 60%;
+  }
+  .w7-m {
+    width: 70%;
+  }
+  .w8-m {
+    width: 80%;
+  }
+  .w9-m {
+    width: 90%;
+  }
+
+  .vw1-m {
+    width: 10vw;
+  }
+  .vw2-m {
+    width: 20vw;
+  }
+  .vw3-m {
+    width: 30vw;
+  }
+  .vw4-m {
+    width: 40vw;
+  }
+  .vw5-m {
+    width: 50vw;
+  }
+  .vw6-m {
+    width: 60vw;
+  }
+  .vw7-m {
+    width: 70vw;
+  }
+  .vw8-m {
+    width: 80vw;
+  }
+  .vw9-m {
+    width: 90vw;
+  }
+  .vw-m {
+    width: 100vw;
+  }
+
+  .min-w1-m {
+    min-width: 10%;
+  }
+  .min-w2-m {
+    min-width: 20%;
+  }
+  .min-w3-m {
+    min-width: 30%;
+  }
+  .min-w4-m {
+    min-width: 40%;
+  }
+  .min-w5-m {
+    min-width: 50%;
+  }
+  .min-w6-m {
+    min-width: 60%;
+  }
+  .min-w7-m {
+    min-width: 70%;
+  }
+  .min-w8-m {
+    min-width: 80%;
+  }
+  .min-w9-m {
+    min-width: 90%;
+  }
+
+  .max-w1-m {
+    max-width: 10%;
+  }
+  .max-w2-m {
+    max-width: 20%;
+  }
+  .max-w3-m {
+    max-width: 30%;
+  }
+  .max-w4-m {
+    max-width: 40%;
+  }
+  .max-w5-m {
+    max-width: 50%;
+  }
+  .max-w6-m {
+    max-width: 60%;
+  }
+  .max-w7-m {
+    max-width: 70%;
+  }
+  .max-w8-m {
+    max-width: 80%;
+  }
+  .max-w9-m {
+    max-width: 90%;
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .wa-l {
+    width: auto;
+  }
+  .wf-l {
+    width: 100%;
+  }
+
+  .sw1-l {
+    width: 0.25em;
+  }
+  .sw2-l {
+    width: 0.5em;
+  }
+  .sw3-l {
+    width: 1em;
+  }
+  .sw4-l {
+    width: 2em;
+  }
+  .sw5-l {
+    width: 4em;
+  }
+  .sw6-l {
+    width: 8em;
+  }
+  .sw7-l {
+    width: 16em;
+  }
+
+  .w1-l {
+    width: 10%;
+  }
+  .w2-l {
+    width: 20%;
+  }
+  .w3-l {
+    width: 30%;
+  }
+  .w4-l {
+    width: 40%;
+  }
+  .w5-l {
+    width: 50%;
+  }
+  .w6-l {
+    width: 60%;
+  }
+  .w7-l {
+    width: 70%;
+  }
+  .w8-l {
+    width: 80%;
+  }
+  .w9-l {
+    width: 90%;
+  }
+
+  .vw1-l {
+    width: 10vw;
+  }
+  .vw2-l {
+    width: 20vw;
+  }
+  .vw3-l {
+    width: 30vw;
+  }
+  .vw4-l {
+    width: 40vw;
+  }
+  .vw5-l {
+    width: 50vw;
+  }
+  .vw6-l {
+    width: 60vw;
+  }
+  .vw7-l {
+    width: 70vw;
+  }
+  .vw8-l {
+    width: 80vw;
+  }
+  .vw9-l {
+    width: 90vw;
+  }
+  .vw-l {
+    width: 100vw;
+  }
+
+  .min-w1-l {
+    min-width: 10%;
+  }
+  .min-w2-l {
+    min-width: 20%;
+  }
+  .min-w3-l {
+    min-width: 30%;
+  }
+  .min-w4-l {
+    min-width: 40%;
+  }
+  .min-w5-l {
+    min-width: 50%;
+  }
+  .min-w6-l {
+    min-width: 60%;
+  }
+  .min-w7-l {
+    min-width: 70%;
+  }
+  .min-w8-l {
+    min-width: 80%;
+  }
+  .min-w9-l {
+    min-width: 90%;
+  }
+
+  .max-w1-l {
+    max-width: 10%;
+  }
+  .max-w2-l {
+    max-width: 20%;
+  }
+  .max-w3-l {
+    max-width: 30%;
+  }
+  .max-w4-l {
+    max-width: 40%;
+  }
+  .max-w5-l {
+    max-width: 50%;
+  }
+  .max-w6-l {
+    max-width: 60%;
+  }
+  .max-w7-l {
+    max-width: 70%;
+  }
+  .max-w8-l {
+    max-width: 80%;
+  }
+  .max-w9-l {
+    max-width: 90%;
+  }
+}

@@ -1,0 +1,102 @@
+.csr-a {
+  cursor: alias;
+}
+.csr-aa {
+  cursor: all-scroll;
+}
+.csr-cp {
+  cursor: copy;
+}
+.csr-cm {
+  cursor: context-menu;
+}
+.csr-cr {
+  cursor: col-resize;
+}
+.csr-cl {
+  cursor: cell;
+}
+.csr-d {
+  cursor: default;
+}
+.csr-er {
+  cursor: e-resize;
+}
+.csr-ewr {
+  cursor: ew-resize;
+}
+.csr-g {
+  cursor: grab;
+}
+.csr-grb {
+  cursor: grabbing;
+}
+.csr-h {
+  cursor: help;
+}
+.csr-m {
+  cursor: move;
+}
+.csr-n {
+  cursor: none;
+}
+.csr-nd {
+  cursor: no-drop;
+}
+.csr-nr {
+  cursor: n-resize;
+}
+.csr-na {
+  cursor: not-allowed;
+}
+.csr-ne-r {
+  cursor: ne-resize;
+}
+.csr-nesw-r {
+  cursor: nesw-resize;
+}
+.c-nw-r {
+  cursor: nw-resize;
+}
+.c-nwse-r {
+  cursor: nwse-resize;
+}
+.csr-pr {
+  cursor: progress;
+}
+.csr-pt {
+  cursor: pointer;
+}
+.csr-rw-r {
+  cursor: row-resize;
+}
+.csr-ns-r {
+  cursor: ns-resize;
+}
+.csr-s-r {
+  cursor: s-resize;
+}
+.csr-se-r {
+  cursor: se-resize;
+}
+.csr-sw-r {
+  cursor: sw-resize;
+}
+.csr-vt {
+  cursor: vertical-text;
+}
+.csr-w {
+  cursor: wait;
+}
+.csr-w-r {
+  cursor: w-resize;
+}
+.csr-cshr {
+  cursor: crosshair;
+}
+.csr-zi {
+  cursor: zoom-in;
+}
+.csr-zo {
+  cursor: zoom-out;
+}
