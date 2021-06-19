@@ -17,6 +17,11 @@
   appearance: none;
 }
 
+.empty:after {
+  content: ".";
+  visibility: hidden;
+}
+
 .o-100 {
   opacity: 1;
 }

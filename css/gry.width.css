@@ -82,7 +82,7 @@
 .vw9 {
   width: 90vw;
 }
-.vw {
+.vwf {
   width: 100vw;
 }
 
@@ -227,7 +227,7 @@
   .vw9-s {
     width: 90vw;
   }
-  .vw-s {
+  .vwf-s {
     width: 100vw;
   }
 
@@ -373,7 +373,7 @@
   .vw9-m {
     width: 90vw;
   }
-  .vw-m {
+  .vwf-m {
     width: 100vw;
   }
 
@@ -519,7 +519,7 @@
   .vw9-l {
     width: 90vw;
   }
-  .vw-l {
+  .vwf-l {
     width: 100vw;
   }
 

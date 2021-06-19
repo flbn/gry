@@ -1,4 +1,4 @@
-import { Language, minify } from "https://deno.land/x/minifier/mod.ts";
+import { Language, minify } from "https://deno.land/x/minifier@v1.1.1/mod.ts";
 const decoder = new TextDecoder("utf-8");
 const encoder = new TextEncoder();
 const files = Deno.readDirSync('css');

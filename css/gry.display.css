@@ -24,6 +24,19 @@
   flex-wrap: wrap;
 }
 
+.flex-100 {
+  flex: 100%;
+}
+.flex-75 {
+  flex: 75%;
+}
+.flex-50 {
+  flex: 50%;
+}
+.flex-25 {
+  flex: 25%;
+}
+
 .dit {
   display: inline-table;
 }

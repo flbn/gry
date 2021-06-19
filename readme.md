@@ -4,8 +4,7 @@ GRY is a unitary CSS framework. created by me, for me.
 
 ### WTF does that mean?
 it means that it was created with the following principles in mind:
-1) 1:12 scale
-2) mobile-first
+2) mobile-first architecture
 3) monism
 4) the golden ratio
 5) utility classes
