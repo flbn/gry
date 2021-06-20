@@ -33,8 +33,14 @@
 .w2 {
   width: 20%;
 }
+.w1-2 {
+  width: 25%;
+}
 .w3 {
   width: 30%;
+}
+.w1-3 {
+  width: 33.33%;
 }
 .w4 {
   width: 40%;
@@ -92,8 +98,14 @@
 .min-w2 {
   min-width: 20%;
 }
+.min-w1-2 {
+  width: 25%;
+}
 .min-w3 {
   min-width: 30%;
+}
+.min-w1-3 {
+  width: 33.33%;
 }
 .min-w4 {
   min-width: 40%;
@@ -120,8 +132,14 @@
 .max-w2 {
   max-width: 20%;
 }
+.max-w1-2 {
+  width: 25%;
+}
 .max-w3 {
   max-width: 30%;
+}
+.max-w1-2 {
+  width: 33.33%;
 }
 .max-w4 {
   max-width: 40%;
@@ -178,8 +196,14 @@
   .w2-s {
     width: 20%;
   }
+  .w1-2-s {
+    width: 25%;
+  }
   .w3-s {
     width: 30%;
+  }
+  .w1-3-s {
+    width: 33.33%;
   }
   .w4-s {
     width: 40%;
@@ -237,8 +261,14 @@
   .min-w2-s {
     min-width: 20%;
   }
+  .min-w1-2-2 {
+    width: 25%;
+  }
   .min-w3-s {
     min-width: 30%;
+  }
+  .min-w1-3-s {
+    width: 33.33%;
   }
   .min-w4-s {
     min-width: 40%;
@@ -265,8 +295,14 @@
   .max-w2-s {
     max-width: 20%;
   }
+  .max-w1-2-s {
+    width: 25%;
+  }
   .max-w3-s {
     max-width: 30%;
+  }
+  .max-w1-3-s {
+    width: 33.33%;
   }
   .max-w4-s {
     max-width: 40%;
@@ -324,8 +360,14 @@
   .w2-m {
     width: 20%;
   }
+  .w1-2-m {
+    width: 25%;
+  }
   .w3-m {
     width: 30%;
+  }
+  .w1-3-m {
+    width: 33.33%;
   }
   .w4-m {
     width: 40%;
@@ -383,8 +425,14 @@
   .min-w2-m {
     min-width: 20%;
   }
+  .min-w1-2-m {
+    width: 25%;
+  }
   .min-w3-m {
     min-width: 30%;
+  }
+  .min-w1-3-m {
+    width: 33.33%;
   }
   .min-w4-m {
     min-width: 40%;
@@ -411,8 +459,14 @@
   .max-w2-m {
     max-width: 20%;
   }
+  .max-w1-2-m {
+    width: 25%;
+  }
   .max-w3-m {
     max-width: 30%;
+  }
+  .max-w1-3-m {
+    width: 33.33%;
   }
   .max-w4-m {
     max-width: 40%;
@@ -470,8 +524,14 @@
   .w2-l {
     width: 20%;
   }
+  .w1-2-l {
+    width: 25%;
+  }
   .w3-l {
     width: 30%;
+  }
+  .w1-3-l {
+    width: 33.33%;
   }
   .w4-l {
     width: 40%;
@@ -529,8 +589,14 @@
   .min-w2-l {
     min-width: 20%;
   }
+  .min-w1-2-l {
+    width: 25%;
+  }
   .min-w3-l {
     min-width: 30%;
+  }
+  .min-w1-3-l {
+    width: 33.33%;
   }
   .min-w4-l {
     min-width: 40%;
@@ -557,8 +623,14 @@
   .max-w2-l {
     max-width: 20%;
   }
+  .max-w1-2-l {
+    width: 25%;
+  }
   .max-w3-l {
     max-width: 30%;
+  }
+  .max-w1-3-l {
+    width: 33.33%;
   }
   .max-w4-l {
     max-width: 40%;
