@@ -33,7 +33,7 @@
 .w2 {
   width: 20%;
 }
-.w1-2 {
+.w1-4 {
   width: 25%;
 }
 .w3 {
@@ -98,7 +98,7 @@
 .min-w2 {
   min-width: 20%;
 }
-.min-w1-2 {
+.min-w1-4 {
   width: 25%;
 }
 .min-w3 {
@@ -132,13 +132,13 @@
 .max-w2 {
   max-width: 20%;
 }
-.max-w1-2 {
+.max-w1-4 {
   width: 25%;
 }
 .max-w3 {
   max-width: 30%;
 }
-.max-w1-2 {
+.max-w1-4 {
   width: 33.33%;
 }
 .max-w4 {
@@ -196,7 +196,7 @@
   .w2-s {
     width: 20%;
   }
-  .w1-2-s {
+  .w1-4-s {
     width: 25%;
   }
   .w3-s {
@@ -261,7 +261,7 @@
   .min-w2-s {
     min-width: 20%;
   }
-  .min-w1-2-2 {
+  .min-w1-4-2 {
     width: 25%;
   }
   .min-w3-s {
@@ -295,7 +295,7 @@
   .max-w2-s {
     max-width: 20%;
   }
-  .max-w1-2-s {
+  .max-w1-4-s {
     width: 25%;
   }
   .max-w3-s {
@@ -360,7 +360,7 @@
   .w2-m {
     width: 20%;
   }
-  .w1-2-m {
+  .w1-4-m {
     width: 25%;
   }
   .w3-m {
@@ -425,7 +425,7 @@
   .min-w2-m {
     min-width: 20%;
   }
-  .min-w1-2-m {
+  .min-w1-4-m {
     width: 25%;
   }
   .min-w3-m {
@@ -459,7 +459,7 @@
   .max-w2-m {
     max-width: 20%;
   }
-  .max-w1-2-m {
+  .max-w1-4-m {
     width: 25%;
   }
   .max-w3-m {
@@ -524,7 +524,7 @@
   .w2-l {
     width: 20%;
   }
-  .w1-2-l {
+  .w1-4-l {
     width: 25%;
   }
   .w3-l {
@@ -589,7 +589,7 @@
   .min-w2-l {
     min-width: 20%;
   }
-  .min-w1-2-l {
+  .min-w1-4-l {
     width: 25%;
   }
   .min-w3-l {
@@ -623,7 +623,7 @@
   .max-w2-l {
     max-width: 20%;
   }
-  .max-w1-2-l {
+  .max-w1-4-l {
     width: 25%;
   }
   .max-w3-l {
